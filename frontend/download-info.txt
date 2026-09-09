@@ -1,0 +1,5 @@
+Estate Lead Bot frontend foundation
+Branch: frontend-development
+Run: npm install && npm run dev
+
+This package is the current frontend foundation from the development branch. Product-specific screens will be refined from the project specifications.
